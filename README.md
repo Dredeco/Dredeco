@@ -15,7 +15,7 @@
   <img align="center" alt="Andre-tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   
 <div>
-  <span> </span>
+  .
 </div>
 
 <div align="center" style="padding-top: 1rem">
