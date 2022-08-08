@@ -1,4 +1,4 @@
-## Oiii eu sou a André Fernandes
+## Olá eu sou o André Fernandes
 <div align="center">
   <a href="https://github.com/Dredeco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dredeco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,9 @@
   <img align="center" alt="Andre-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Andre-tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   
-<div />
+<div>
+  <span> </span>
+</div>
 
 <div align="center" style="padding-top: 1rem">
   <a href="https://instagram.com/dredeco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
