@@ -1,9 +1,10 @@
 ## Olá eu sou o André Fernandes
 ![Dredeco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dredeco&show_icons=true&bg_color=00000000)
+![Dredeco's Tops Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dredeco&layout=compact&langs_count=7&theme=github")
 
 <div align="center">
   <a href="https://github.com/Dredeco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dredeco&layout=compact&langs_count=7&theme=github"/>
+  <img height="180em" src="/>
 </div>
  
 <div align="center" style="display: inline_block"><br>
