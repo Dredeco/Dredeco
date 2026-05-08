@@ -29,11 +29,7 @@ Sou o **André Fernandes** — foco em **qualidade de código**, **UX previsíve
 ### Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,vue,java,cs,sass,css,bash&perline=8" alt="TypeScript, JavaScript, Vue, Java, C#, Sass, CSS, Shell" />
-</p>
-
-<p align="center">
-<sub>Baseado nas linguagens/tecnologias mais recorrentes dos seus repositórios públicos.</sub>
+  <img src="https://skillicons.dev/icons?i=html,ts,js,react,nextjs,vue,express,nodejs,styledcomponents,postgres,java,cs,tailwind,sass,css, git, github&perline=8" alt="html, TypeScript, JavaScript, React, NextJs, figma, firebase, Express, Vue, Java, C#, Sass, CSS, git, github " />
 </p>
 
 ---
